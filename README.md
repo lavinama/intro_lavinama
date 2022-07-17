@@ -1,4 +1,5 @@
 # Hi there 👋
+I'm a masters's student at Imperial College London studying artificial intelligence.
 
 - I'm currently working on trying to generate safety-critical scenarios using reinforcement learning techniques such as multi-Agent DDPG to test the control algorithms of autonomous vehicles. [Check out more here.](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv) 🚙 
 - Interests: Robotics, Reinforcement Learning and Autonomous Vehicles
@@ -8,3 +9,5 @@
     * Built an ml model for predicting ships crew size 🛳. [Check it out here.](https://github.com/lavinama/Cruise_ship_data_science)
 
 More cool projects coming up!
+
+[Linkedin](https://www.linkedin.com/in/mario-l-b0a938172/) 
