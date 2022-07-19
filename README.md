@@ -5,10 +5,9 @@
 
 Hi, I'm [Mario](https://www.linkedin.com/in/mario-l-b0a938172/), a student studying a [Master's in Artificial Intelligence](https://www.imperial.ac.uk/study/pg/computing/artificial-intelligence/) at Imperial College London.
 
-<img align="center" alt="GIF" src="https://github.com/lavinama/lavinama/tree/main/media/coding.gif?raw=true" width="500" height="320" />
-
 I'm currently working on trying to generate safety-critical scenarios using reinforcement learning techniques such as multi-Agent DDPG to test the control algorithms of autonomous vehicles. [Check it out.](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv) 🚙 
 
+<p align="center"> <img alt="GIF" src="https://github.com/lavinama/lavinama/blob/main/media/coding.gif?raw=true" width="500" height="320" />
 
 Other cool projects I've done 🗄:
 * Implemented from scratch the convolution, pooling, linear and batch norm layers in PyTorch. [Check it out.](https://github.com/lavinama/pytorch_blocks)
