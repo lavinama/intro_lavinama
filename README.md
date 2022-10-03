@@ -3,13 +3,13 @@
 
 <br />
 
-Hi, I'm [Mario](https://www.linkedin.com/in/mario-l-b0a938172/), a student studying a [Master's in Artificial Intelligence](https://www.imperial.ac.uk/study/pg/computing/artificial-intelligence/) at Imperial College London.
+Hi I'm [Mario](https://www.linkedin.com/in/mario-l-b0a938172/), I recently graduated from a [Master's in Artificial Intelligence](https://www.imperial.ac.uk/study/pg/computing/artificial-intelligence/) at Imperial College London.
 
-I'm currently working on trying to generate safety-critical scenarios using reinforcement learning techniques such as multi-Agent DDPG to test the control algorithms of autonomous vehicles. [Check it out.](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv) 🚙 
-
-<p align="center"> <img alt="GIF" src="https://github.com/lavinama/lavinama/blob/main/media/coding.gif?raw=true" width="500" height="320" />
+I'm currently working on trying to: predict the speed of a car using dashcam videos. [Check it out.](https://github.com/lavinama/speed_challenge) 🚗
 
 Other cool projects I've done 🗄:
+* Generate safety-critical scenarios using adversarial reinforcement learning techniques such as multi-agent DDPG to test the control algorithms of autonomous vehicles. [Check it out.](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv) 🚙
+<p align="center"> <img alt="GIF" src="https://drive.google.com/drive/folders/1DfIhMuW1Cmrfvf_7cl4Lh--xSDXuEE5C" width="500" height="320" />
 * Implemented from scratch the convolution, pooling, linear and batch norm layers in PyTorch. [Check it out.](https://github.com/lavinama/pytorch_blocks)
 * Designed a Residual Network to classify animals. [Check it out.](https://github.com/lavinama/cnn_NaturalImageNet) 🐘
 * Built from scratch a VAE and a GAN. [Check it out.](https://github.com/lavinama/generative_models) 🧞‍♂️
