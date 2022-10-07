@@ -3,7 +3,7 @@
 # Hi there, I'm Mario 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=lavinama.lavinama)
 
-I'm a machine learning engineer with experience in developing machine learning applications, specializing in reinforcement learning and computer vision. I recently graduated from a [Master's in Artificial Intelligence](https://www.imperial.ac.uk/study/pg/computing/artificial-intelligence/) at Imperial College London. Moreover, I'm passionate about self-driving cars. I'm proficient in Python, C++, and ML libraries (Pytorch, Tensorflow).
+I'm a machine learning engineer with experience in developing machine learning applications, specialising in reinforcement learning and computer vision. I recently graduated from a [Master's in Artificial Intelligence](https://www.imperial.ac.uk/study/pg/computing/artificial-intelligence/) at Imperial College London. Moreover, I'm passionate about self-driving cars. I'm proficient in Python, C++, and ML libraries (Pytorch, Tensorflow).
 
   ### You can find me on:
   
@@ -20,12 +20,12 @@ I'm a machine learning engineer with experience in developing machine learning a
 ###  Latest Projects 👨‍💻
 
 <!-- BLOG-POST-LIST:START -->
-- [Predict the speed of a car using dashcam videos](https://github.com/lavinama/speed_challenge?source=rss-d6424acda24a------2)
-- [Generate safety-critical scenarios using adversarial reinforcement learning techniques such as multi-agent DDPG to test the control algorithms of autonomous vehicles.](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv?source=rss-d6424acda24a------2)
-- [Implemented from scratch the convolution, pooling, linear and batch norm layers in PyTorch.](https://github.com/lavinama/pytorch_blocks?source=rss-d6424acda24a------2)
-- [Designed a Residual Network to classify animals.](https://github.com/lavinama/cnn_NaturalImageNet?source=rss-d6424acda24a------2)
+- [Predicting the speed of a car using dashcam videos](https://github.com/lavinama/speed_challenge?source=rss-d6424acda24a------2)
+- [Generation of safety-critical scenarios using adversarial reinforcement learning techniques with algorithms such as MADDPG to test the control algorithms of autonomous vehicles.](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv?source=rss-d6424acda24a------2)
 - [Built from scratch a VAE and a GAN.](https://github.com/lavinama/generative_models?source=rss-d6424acda24a------2)
-- [Built an ml model for predicting ships crew size.](https://github.com/lavinama/Cruise_ship_data_science?source=rss-d6424acda24a------2)
+- [Designed a Residual Network to classify animals.](https://github.com/lavinama/cnn_NaturalImageNet?source=rss-d6424acda24a------2)
+- [Implemented from scratch the convolution, pooling, linear and batch norm layers in Python.](https://github.com/lavinama/pytorch_blocks?source=rss-d6424acda24a------2)
+- [Built an ML model for predicting ships crew size.](https://github.com/lavinama/Cruise_ship_data_science?source=rss-d6424acda24a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -52,7 +52,3 @@ I'm a machine learning engineer with experience in developing machine learning a
 ---
 
 *To build a similar Github profile page, check out [this blog post](https://betterprogramming.pub/7-tweaks-to-stand-out-with-your-github-profile-766350420ff2).*
-
-### Languages and Tools:
-
-<linux> <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
