@@ -3,7 +3,7 @@
 # Hi there, I'm Mario 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=lavinama.lavinama)
 
-I'm a machine learning engineer with experience in developing machine learning applications, specialising in reinforcement learning and computer vision. I recently graduated from a [Master's in Artificial Intelligence](https://www.imperial.ac.uk/study/pg/computing/artificial-intelligence/) at Imperial College London. Moreover, I'm passionate about self-driving cars. I'm proficient in Python, C++, and ML libraries (Pytorch, Tensorflow).
+I'm a machine learning engineer with experience in developing machine learning applications, specialising in reinforcement learning and computer vision. I recently graduated with a [Master's in Artificial Intelligence](https://www.imperial.ac.uk/study/pg/computing/artificial-intelligence/) from Imperial College London. Moreover, I'm passionate about self-driving cars. I'm proficient in Python, C++, and ML libraries (Pytorch, Tensorflow).
 
   ### You can find me on:
   
