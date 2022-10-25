@@ -17,11 +17,16 @@ I'm a machine learning engineer with experience in developing machine learning a
 
 ---
 
-###  Latest Projects 👨‍💻
+##  Latest Projects 👨‍💻
+
+### [Early and Late Sensor Fusion](https://github.com/lavinama/Sensor-Fusion)
+
+
+### [Generating safety-critical scenarios using adversarial RL to test AVs](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv)
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Predicting the speed of a car using dashcam videos](https://github.com/lavinama/speed_challenge?source=rss-d6424acda24a------2)
-- [Generation of safety-critical scenarios using adversarial reinforcement learning techniques with algorithms such as MADDPG to test the control algorithms of autonomous vehicles.](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv?source=rss-d6424acda24a------2)
 - [Built from scratch a VAE and a GAN.](https://github.com/lavinama/generative_models?source=rss-d6424acda24a------2)
 - [Designed a Residual Network to classify animals.](https://github.com/lavinama/cnn_NaturalImageNet?source=rss-d6424acda24a------2)
 - [Implemented from scratch the convolution, pooling, linear and batch norm layers in Python.](https://github.com/lavinama/pytorch_blocks?source=rss-d6424acda24a------2)
