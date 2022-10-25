@@ -27,11 +27,16 @@ https://user-images.githubusercontent.com/70475094/197755891-984b8950-6943-49a9-
 
 ### [3D Deep Learning: Implementing PointNet](https://github.com/lavinama/3D-Deep-Learning)
 
+In this project we build on Pytorch PointNet presented in this [paper](https://arxiv.org/abs/1612.00593). In order to achieve this we first have to preprocess the data. We then go on to build the model by developing the **T-Net** and then the **classification and segmentation head**. We test our model using a segmentation subset of the ShapeNetCore model, which contains 16 000 point clouds with 16 different shape categories. To download the subet please follow this [link](https://shapenet.cs.stanford.edu/ericyi/shapenetcore_partanno_segmentation_benchmark_v0.zip).
+
+<img src="https://github.com/lavinama/3D-Deep-Learning/blob/main/media/cover.gif" alt="pointnet" /> 
 
 
 ### [Generating safety-critical scenarios using adversarial RL to test AVs](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv)
 
 
+
+## Other interesting projects
 <!-- BLOG-POST-LIST:START -->
 - [Predicting the speed of a car using dashcam videos](https://github.com/lavinama/speed_challenge?source=rss-d6424acda24a------2)
 - [Built from scratch a VAE and a GAN.](https://github.com/lavinama/generative_models?source=rss-d6424acda24a------2)
