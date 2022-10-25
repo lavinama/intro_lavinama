@@ -31,6 +31,11 @@ In this project we build on Pytorch PointNet presented in this [paper](https://a
 
 <img src="https://github.com/lavinama/3D-Deep-Learning/blob/main/media/cover.gif" alt="pointnet" /> 
 
+### [Tracking Objects: Implementing DeepSORT](https://github.com/lavinama/Object-Tracking)
+
+In this project we build an object tracking algorithm that makes use of DeepSORT using Yolov4 (implementation using Yolov5 in the works). We first detect the objects using the object detection algorithm **Yolov4**. For each of the detected objects we use **DeepSORT** to associate the deep convolutional features. We then make use of the **Hungarian algorithm** to associate the different matches. We provide two extensions in order to improve performance: we change the **non-max suppresion formula** and we introduce **age** to reduce the number of false positives and false negatives.
+
+https://user-images.githubusercontent.com/70475094/197843241-b1c5314f-c9ab-4001-9138-567670641201.mp4
 
 ### [Generating safety-critical scenarios using adversarial RL to test AVs](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv)
 
