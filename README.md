@@ -21,6 +21,13 @@ I'm a machine learning engineer with experience in developing machine learning a
 
 ### [Early and Late Sensor Fusion](https://github.com/lavinama/Sensor-Fusion)
 
+In this project we fuse both LiDAR and camera data using two techniques. First, **early fusion** were we first fuse both pieces of data onto the image frame and then detect the obstacles. We leverage the camera data to detect the objects and use the LiDAR data to estimate their distance from the vehicle. An example of the output can be shown below. Second, **late fusion** were we process both pieces of data separately using a YOLOv4 algorithm for the image data and a PointNet for the point cloud data and then fuse them together.
+
+https://user-images.githubusercontent.com/70475094/197755891-984b8950-6943-49a9-9738-f308cc33b35d.mp4
+
+### [3D Deep Learning: Implementing PointNet](https://github.com/lavinama/3D-Deep-Learning)
+
+
 
 ### [Generating safety-critical scenarios using adversarial RL to test AVs](https://github.com/lavinama/highway-env-tibi/tree/dev-highway-adv)
 
