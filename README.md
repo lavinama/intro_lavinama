@@ -21,19 +21,19 @@ I'm a machine learning engineer with experience in developing machine learning a
 
 ### [Early and Late Sensor Fusion](https://github.com/lavinama/Sensor-Fusion)
 
-In this project we fuse both LiDAR and camera data using two techniques. First, **early fusion** were we first fuse both pieces of data onto the image frame and then detect the obstacles. We leverage the camera data to detect the objects and use the LiDAR data to estimate their distance from the vehicle. An example of the output can be shown below. Second, **late fusion** were we process both pieces of data separately using a YOLOv4 algorithm for the image data and a PointNet for the point cloud data and then fuse them together.
+In this project I fuse both LiDAR and camera data using two techniques. First, **early fusion**: where I first fuse both pieces of data onto the image frame and then detect the obstacles. I leverage the camera data to detect the objects and use the LiDAR data to estimate their distance from the vehicle. An example of the output can be shown below. Second, **late fusion**: where I process both pieces of data separately using a YOLOv4 algorithm for the image data and a PointNet for the point cloud data and then fuse them together.
 
 https://user-images.githubusercontent.com/70475094/197755891-984b8950-6943-49a9-9738-f308cc33b35d.mp4
 
 ### [3D Deep Learning: Implementing PointNet](https://github.com/lavinama/3D-Deep-Learning)
 
-In this project we build on Pytorch PointNet presented in this [paper](https://arxiv.org/abs/1612.00593). In order to achieve this we first have to preprocess the data. We then go on to build the model by developing the **T-Net** and then the **classification and segmentation head**. We test our model using a segmentation subset of the ShapeNetCore model, which contains 16 000 point clouds with 16 different shape categories. To download the subet please follow this [link](https://shapenet.cs.stanford.edu/ericyi/shapenetcore_partanno_segmentation_benchmark_v0.zip).
+In this project I build on Pytorch PointNet presented in this [paper](https://arxiv.org/abs/1612.00593). In order to achieve this I first have to preprocess the data. I then go on to build the model by developing the **T-Net** and then the **classification and segmentation head**. I test our model using a segmentation subset of the ShapeNetCore model, which contains 16 000 point clouds with 16 different shape categories. To download the subet please follow this [link](https://shapenet.cs.stanford.edu/ericyi/shapenetcore_partanno_segmentation_benchmark_v0.zip).
 
 <img src="https://github.com/lavinama/3D-Deep-Learning/blob/main/media/cover.gif" alt="pointnet" /> 
 
 ### [Tracking Objects: Implementing DeepSORT](https://github.com/lavinama/Object-Tracking)
 
-In this project we build an object tracking algorithm that makes use of DeepSORT using Yolov4 (implementation using Yolov5 in the works). We first detect the objects using the object detection algorithm **Yolov4**. For each of the detected objects we use **DeepSORT** to associate the deep convolutional features. We then make use of the **Hungarian algorithm** to associate the different matches. We provide two extensions in order to improve performance: we change the **non-max suppresion formula** and we introduce **age** to reduce the number of false positives and false negatives.
+In this project I build an object tracking algorithm that makes use of DeepSORT using Yolov4 (implementation using Yolov5 in the works). I first detect the objects using the object detection algorithm **Yolov4**. For each of the detected objects we use **DeepSORT** to associate the deep convolutional features. I then make use of the **Hungarian algorithm** to associate the different matches. I provide two extensions in order to improve performance: I change the **non-max suppresion formula** and I introduce **age** to reduce the number of false positives and false negatives.
 
 https://user-images.githubusercontent.com/70475094/197843241-b1c5314f-c9ab-4001-9138-567670641201.mp4
 
